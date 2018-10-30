@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.silver.app",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "monolith",
+    "baseName": "JHipsterTests",
+    "packageName": "com.silver.app",
+    "packageFolder": "com/silver/app",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTNiM2U1Nzg2NjRhOTRjMTJjM2U3M2Y2YmM5YmZhZWRkNjFmNjA5NzViOGI1YzExNDcwOTE3MTRkOTU5NjdjMDlhODY0Mjk1Yjc4NmRkODU4ZWI1OTk0MTcxYjM4ZDE4NDE1ZmQ3ZjZiNjgwZjRiNTMxY2U4YmVkNjljYTJmYTg=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "ru"
+    ]
+  }
+}
